@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Tree render 1`] = `
+<div
+  class="sc-crzoUp eSLNaX"
+  data-testid="tree-main"
+>
+  <div
+    class="sc-dIsAE nfwIS left "
+    data-testid="branch-main"
+  >
+    <div
+      class="sc-fnVYJo ddA-DCl left"
+    >
+      <div
+        class="sc-gKAblj bWyEMM"
+        title="June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914"
+      >
+        June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914
+      </div>
+    </div>
+    <div
+      class="sc-ksluoS iOzgNN left "
+    >
+      <div
+        class="sc-bdnylx hvWJRz"
+      >
+        <span
+          class="sc-gtssRu bcPOLu"
+        >
+          Archduke Franz Ferdinand of Austria and his wife, Sophie, are assassinated by a Bosnian Serb nationalist in Sarajevo.
+        </span>
+        <div
+          class="sc-eCApGN UqUWF show-less"
+        >
+          <p
+            class="sc-hKFyIo bBEQRC"
+          />
+        </div>
+        <span
+          class="sc-jSFkmK kOUyCF show-more"
+          role="button"
+        >
+          ...
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-bqGHjH dEyYZP left"
+      data-testid="tree-leaf"
+    >
+      <div
+        class="sc-hBMVcZ iPPeXu left"
+        data-testid="tree-leaf-click"
+      >
+        <div
+          class="sc-jrsJCI glldHT in-active"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dIsAE nfwIS right "
+    data-testid="branch-main"
+  >
+    <div
+      class="sc-fnVYJo ddA-DCl right"
+    >
+      <div
+        class="sc-gKAblj bWyEMM"
+        title="July 28, 1914"
+      >
+        July 28, 1914
+      </div>
+    </div>
+    <div
+      class="sc-ksluoS iOzgNN right "
+    >
+      <div
+        class="sc-bdnylx hvWJRz"
+      >
+        <span
+          class="sc-gtssRu bcPOLu"
+        >
+          World War I begins when Austria-Hungary declares war on Serbia.
+        </span>
+        <div
+          class="sc-eCApGN UqUWF show-less"
+        >
+          <p
+            class="sc-hKFyIo bBEQRC"
+          />
+        </div>
+        <span
+          class="sc-jSFkmK kOUyCF show-more"
+          role="button"
+        >
+          ...
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-bqGHjH dEyYZP right"
+      data-testid="tree-leaf"
+    >
+      <div
+        class="sc-hBMVcZ iPPeXu right"
+        data-testid="tree-leaf-click"
+      >
+        <div
+          class="sc-jrsJCI glldHT in-active"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dIsAE nfwIS left "
+    data-testid="branch-main"
+  >
+    <div
+      class="sc-fnVYJo ddA-DCl left"
+    >
+      <div
+        class="sc-gKAblj bWyEMM"
+        title="August 1–28, 1914"
+      >
+        August 1–28, 1914
+      </div>
+    </div>
+    <div
+      class="sc-ksluoS iOzgNN left "
+    >
+      <div
+        class="sc-bdnylx hvWJRz"
+      >
+        <span
+          class="sc-gtssRu bcPOLu"
+        >
+          Germany declares war on Russia, France, and Belgium. Britain declares war on Germany.
+    Austria declares war on Russia. Montenegro declares war on Austria. France declares war on Austria.
+    Britain declares war on Austria. Montenegro declares war on Germany. Japan declares war on Germany. Austria declares war on Belgium.
+        </span>
+        <div
+          class="sc-eCApGN UqUWF show-less"
+        >
+          <p
+            class="sc-hKFyIo bBEQRC"
+          />
+        </div>
+        <span
+          class="sc-jSFkmK kOUyCF show-more"
+          role="button"
+        >
+          ...
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-bqGHjH dEyYZP left"
+      data-testid="tree-leaf"
+    >
+      <div
+        class="sc-hBMVcZ iPPeXu left"
+        data-testid="tree-leaf-click"
+      >
+        <div
+          class="sc-jrsJCI glldHT in-active"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dIsAE nfwIS right "
+    data-testid="branch-main"
+  >
+    <div
+      class="sc-fnVYJo ddA-DCl right"
+    >
+      <div
+        class="sc-gKAblj bWyEMM"
+        title="September 6, 1914"
+      >
+        September 6, 1914
+      </div>
+    </div>
+    <div
+      class="sc-ksluoS iOzgNN right "
+    >
+      <div
+        class="sc-bdnylx hvWJRz"
+      >
+        <span
+          class="sc-gtssRu bcPOLu"
+        >
+          First Battle of the Marne begins. The Germans had advanced to within 30 miles of Paris, but over the next two days, the French are reinforced by 6,000 infantrymen who are transported to the front by hundreds of taxis.
+      The Germans dig in north of the Aisne River, and the trench warfare that is to typify the Western Front for the next four years begins.
+        </span>
+        <div
+          class="sc-eCApGN UqUWF show-less"
+        >
+          <p
+            class="sc-hKFyIo bBEQRC"
+          />
+        </div>
+        <span
+          class="sc-jSFkmK kOUyCF show-more"
+          role="button"
+        >
+          ...
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-bqGHjH dEyYZP right"
+      data-testid="tree-leaf"
+    >
+      <div
+        class="sc-hBMVcZ iPPeXu right"
+        data-testid="tree-leaf-click"
+      >
+        <div
+          class="sc-jrsJCI glldHT in-active"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

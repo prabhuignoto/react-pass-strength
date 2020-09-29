@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test tree branch render 1`] = `
+<div
+  class="sc-dIsAE nfwIS test-class "
+  data-testid="branch-main"
+>
+  <div
+    class="sc-fnVYJo kfFwtY test-class"
+  >
+    <div
+      class="sc-gKAblj bWyEMM active"
+      title="branch title"
+    >
+      branch title
+    </div>
+  </div>
+  <div
+    class="sc-ksluoS BhDjz test-class "
+  >
+    <div
+      class="sc-bdnylx hvWJRz active"
+    >
+      <span
+        class="sc-gtssRu bcPOLu"
+      >
+        Tree branch test
+      </span>
+      <div
+        class="sc-eCApGN UqUWF show-less"
+      >
+        <p
+          class="sc-hKFyIo bBEQRC"
+        />
+      </div>
+      <span
+        class="sc-jSFkmK kOUyCF show-more"
+        role="button"
+      >
+        show more
+      </span>
+    </div>
+  </div>
+  <div
+    class="sc-bqGHjH dEyYZP test-class"
+    data-testid="tree-leaf"
+  >
+    <div
+      class="sc-hBMVcZ iPPeXu test-class"
+      data-testid="tree-leaf-click"
+    >
+      <div
+        class="sc-jrsJCI glldHT active"
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,436 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Collection Horizontal render 1`] = `
+<ul
+  class="sc-crzoUp ezxwnY horizontal"
+  data-testid="timeline-collection"
+>
+  <li
+    class="sc-dIsAE bFZueA horizontal "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB horizontal"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT horizontal in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-kEqYlL efYomT horizontal undefined"
+        data-testid="timeline-title"
+      >
+        <div
+          class="sc-gKAblj bWyEMM"
+          title="June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914"
+        >
+          June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA horizontal "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB horizontal"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT horizontal in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-kEqYlL efYomT horizontal undefined"
+        data-testid="timeline-title"
+      >
+        <div
+          class="sc-gKAblj bWyEMM"
+          title="July 28, 1914"
+        >
+          July 28, 1914
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA horizontal "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB horizontal"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT horizontal in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-kEqYlL efYomT horizontal undefined"
+        data-testid="timeline-title"
+      >
+        <div
+          class="sc-gKAblj bWyEMM"
+          title="August 1–28, 1914"
+        >
+          August 1–28, 1914
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA horizontal "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB horizontal"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT horizontal in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-kEqYlL efYomT horizontal undefined"
+        data-testid="timeline-title"
+      >
+        <div
+          class="sc-gKAblj bWyEMM"
+          title="September 6, 1914"
+        >
+          September 6, 1914
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`Test Collection Tree render 1`] = `
+<ul
+  class="sc-crzoUp ezxwnY tree"
+  data-testid="timeline-collection"
+>
+  <li
+    class="sc-dIsAE bFZueA tree "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB tree"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT tree in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA tree "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB tree"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT tree in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA tree "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB tree"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT tree in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA tree "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB tree"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT tree in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`Test Collection Vertical render 1`] = `
+<ul
+  class="sc-crzoUp ezxwnY vertical"
+  data-testid="timeline-collection"
+>
+  <li
+    class="sc-dIsAE bFZueA vertical "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB vertical"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT vertical in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-iqAbSa hHCKmM vertical"
+      >
+        <div
+          class="sc-kEqYlL efYomT vertical undefined"
+          data-testid="timeline-title"
+        >
+          <div
+            class="sc-gKAblj bWyEMM"
+            title="June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914"
+          >
+            June 28, 1914 June 28, 1914 June 28, 1914June 28, 1914
+          </div>
+        </div>
+        <div
+          class="sc-bdnylx hvWJRz"
+        >
+          <span
+            class="sc-gtssRu bcPOLu"
+          >
+            Archduke Franz Ferdinand of Austria and his wife, Sophie, are assassinated by a Bosnian Serb nationalist in Sarajevo.
+          </span>
+          <div
+            class="sc-eCApGN UqUWF show-less"
+          >
+            <p
+              class="sc-hKFyIo bBEQRC"
+            />
+          </div>
+          <span
+            class="sc-jSFkmK kOUyCF show-more"
+            role="button"
+          >
+            ...
+          </span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA vertical "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB vertical"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT vertical in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-iqAbSa hHCKmM vertical"
+      >
+        <div
+          class="sc-kEqYlL efYomT vertical undefined"
+          data-testid="timeline-title"
+        >
+          <div
+            class="sc-gKAblj bWyEMM"
+            title="July 28, 1914"
+          >
+            July 28, 1914
+          </div>
+        </div>
+        <div
+          class="sc-bdnylx hvWJRz"
+        >
+          <span
+            class="sc-gtssRu bcPOLu"
+          >
+            World War I begins when Austria-Hungary declares war on Serbia.
+          </span>
+          <div
+            class="sc-eCApGN UqUWF show-less"
+          >
+            <p
+              class="sc-hKFyIo bBEQRC"
+            />
+          </div>
+          <span
+            class="sc-jSFkmK kOUyCF show-more"
+            role="button"
+          >
+            ...
+          </span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA vertical "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB vertical"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT vertical in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-iqAbSa hHCKmM vertical"
+      >
+        <div
+          class="sc-kEqYlL efYomT vertical undefined"
+          data-testid="timeline-title"
+        >
+          <div
+            class="sc-gKAblj bWyEMM"
+            title="August 1–28, 1914"
+          >
+            August 1–28, 1914
+          </div>
+        </div>
+        <div
+          class="sc-bdnylx hvWJRz"
+        >
+          <span
+            class="sc-gtssRu bcPOLu"
+          >
+            Germany declares war on Russia, France, and Belgium. Britain declares war on Germany.
+    Austria declares war on Russia. Montenegro declares war on Austria. France declares war on Austria.
+    Britain declares war on Austria. Montenegro declares war on Germany. Japan declares war on Germany. Austria declares war on Belgium.
+          </span>
+          <div
+            class="sc-eCApGN UqUWF show-less"
+          >
+            <p
+              class="sc-hKFyIo bBEQRC"
+            />
+          </div>
+          <span
+            class="sc-jSFkmK kOUyCF show-more"
+            role="button"
+          >
+            ...
+          </span>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="sc-dIsAE bFZueA vertical "
+    width="250"
+  >
+    <div
+      class="sc-iCoHVE yuLvB vertical"
+      data-testid="timeline-item"
+    >
+      <div
+        class="sc-pNWxx dztYkU"
+      >
+        <div
+          class="sc-jrsJCI glldHT vertical in-active"
+          data-testid="timeline-circle"
+        />
+      </div>
+      <div
+        class="sc-iqAbSa hHCKmM vertical"
+      >
+        <div
+          class="sc-kEqYlL efYomT vertical undefined"
+          data-testid="timeline-title"
+        >
+          <div
+            class="sc-gKAblj bWyEMM"
+            title="September 6, 1914"
+          >
+            September 6, 1914
+          </div>
+        </div>
+        <div
+          class="sc-bdnylx hvWJRz"
+        >
+          <span
+            class="sc-gtssRu bcPOLu"
+          >
+            First Battle of the Marne begins. The Germans had advanced to within 30 miles of Paris, but over the next two days, the French are reinforced by 6,000 infantrymen who are transported to the front by hundreds of taxis.
+      The Germans dig in north of the Aisne River, and the trench warfare that is to typify the Western Front for the next four years begins.
+          </span>
+          <div
+            class="sc-eCApGN UqUWF show-less"
+          >
+            <p
+              class="sc-hKFyIo bBEQRC"
+            />
+          </div>
+          <span
+            class="sc-jSFkmK kOUyCF show-more"
+            role="button"
+          >
+            ...
+          </span>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;

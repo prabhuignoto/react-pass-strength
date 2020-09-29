@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Timeline Item render - Horizontal 1`] = `
+<div
+  class="sc-iCoHVE yuLvB horizontal"
+  data-testid="timeline-item"
+>
+  <div
+    class="sc-pNWxx dztYkU"
+  >
+    <div
+      class="sc-jrsJCI glldHT horizontal active"
+      data-testid="timeline-circle"
+    />
+  </div>
+  <div
+    class="sc-kEqYlL efYomT horizontal top"
+    data-testid="timeline-title"
+  >
+    <div
+      class="sc-gKAblj bWyEMM active"
+      title="test title"
+    >
+      test title
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test Timeline Item render - Vertical 1`] = `
+<div
+  class="sc-iCoHVE yuLvB vertical"
+  data-testid="timeline-item"
+>
+  <div
+    class="sc-pNWxx dztYkU"
+  >
+    <div
+      class="sc-jrsJCI glldHT vertical active"
+      data-testid="timeline-circle"
+    />
+  </div>
+  <div
+    class="sc-iqAbSa hHCKmM vertical"
+  >
+    <div
+      class="sc-kEqYlL efYomT vertical bottom"
+      data-testid="timeline-title"
+    >
+      <div
+        class="sc-gKAblj bWyEMM active"
+        title="test title"
+      >
+        test title
+      </div>
+    </div>
+    <div
+      class="sc-bdnylx hvWJRz active"
+    >
+      <span
+        class="sc-gtssRu bcPOLu"
+      >
+        This is a test content
+      </span>
+      <div
+        class="sc-eCApGN UqUWF show-less"
+      >
+        <p
+          class="sc-hKFyIo bBEQRC"
+        />
+      </div>
+      <span
+        class="sc-jSFkmK kOUyCF show-more"
+        role="button"
+      >
+        show more
+      </span>
+    </div>
+  </div>
+</div>
+`;

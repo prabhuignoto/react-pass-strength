@@ -1,0 +1,102 @@
+{
+  "name": "react-chrono",
+  "version": "1.0.19",
+  "license": "MIT",
+  "description": "a modern timeline component for React",
+  "keywords": [
+    "timeline",
+    "react-timeline",
+    "horizontal-timeline",
+    "vertical-timeline"
+  ],
+  "author": "Prabhu Murthy",
+  "repository": {
+    "url": "https://github.com/prabhuignoto/react-chrono",
+    "type": "git"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.12",
+    "react": "^16.13.1",
+    "styled-components": "5.2.0",
+    "use-debounce": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build:demo": "react-scripts build",
+    "rollup": "rimraf ./dist && rollup -c",
+    "test": "react-scripts test -u",
+    "coverage": "react-scripts test a -u --coverage --watchAll=false",
+    "eject": "react-scripts eject",
+    "lint:css": "stylelint ./src/**/*style.ts"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.11.0",
+    "@babel/plugin-transform-runtime": "^7.11.5",
+    "@babel/preset-typescript": "^7.10.4",
+    "@babel/runtime": "^7.11.2",
+    "@hot-loader/react-dom": "^16.13.0",
+    "@rollup/plugin-babel": "^5.2.1",
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.0.4",
+    "@testing-library/user-event": "^12.1.6",
+    "@types/jest": "^26.0.14",
+    "@types/nanoid": "^2.1.0",
+    "@types/node": "^14.11.2",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.0",
+    "@types/styled-components": "5.1.3",
+    "@types/webfontloader": "^1.6.32",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "cssnano": "^4.1.10",
+    "react-dom": "^16.13.1",
+    "react-hot-loader": "^4.12.21",
+    "react-scripts": "3.4.0",
+    "rollup": "^2.28.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-postcss": "^3.1.8",
+    "rollup-plugin-typescript2": "^0.27.3",
+    "stylelint": "^13.7.2",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0",
+    "ts-jest": "^26.4.0",
+    "typescript": "3.8.3",
+    "webfontloader": "^1.6.28"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "5.1.1",
+    "use-debounce": "^3.4.3"
+  },
+  "files": [
+    "dist"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint:css",
+      "pre-push": "yarn test"
+    }
+  },
+  "main": "dist/react-chrono.js",
+  "module": "dist/react-chrono.esm.js",
+  "umd": "dist/react-chrono.umd.js"
+}
